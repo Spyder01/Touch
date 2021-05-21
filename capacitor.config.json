@@ -1,0 +1,6 @@
+{
+  "appId": "com.suhan.touch",
+  "appName": "touch",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
